@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222571339115",
+    "firebase_url": "https://thuoc-61f54-default-rtdb.firebaseio.com",
+    "project_id": "thuoc-61f54",
+    "storage_bucket": "thuoc-61f54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222571339115:android:444b100fbbeba175fe402e",
+        "android_client_info": {
+          "package_name": "dgoon.mobile.thuocmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222571339115-d77mf9gfcqifl6jtahdffj48vj3qq3nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZnXG6YfO7V2KLQkrmLdAIOsVG1EztVG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222571339115-d77mf9gfcqifl6jtahdffj48vj3qq3nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
